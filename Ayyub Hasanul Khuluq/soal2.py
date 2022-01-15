@@ -1,8 +1,3 @@
-
-print("\n")
-print("Nama\t : Ayyub Hasanul Khuluq\n")
-print("NIM\t : 21081000009\n")
-print("Kelas\t : 1D\n")
 # cetak judul program
 print('program menentukan nilai maksimum tiga bilangan Cara Pertama\n')
 
