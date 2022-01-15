@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> a4c6944eba288e0ac7bdfc0de5a49381cb2f09f5
 # cetak judul program
 print('program menentukan nilai maksimum tiga bilangan Cara Pertama\n')
 
