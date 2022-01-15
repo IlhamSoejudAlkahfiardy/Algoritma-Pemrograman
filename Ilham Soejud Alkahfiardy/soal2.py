@@ -3,9 +3,9 @@ ulang = 'Y'  # variabel untuk perulangan program
 while ulang == 'Y' or ulang == 'y':
 
     print("\n")  # \n untuk memberi enter
-    print("Nama \t : Ilham Soejud Alkahfiardy\n")
-    print("NIM \t : 21081000005\n")
-    print("Kelas \t : 1D\n")
+    print("Nama\t: Ilham Soejud Alkahfiardy\n")
+    print("NIM\t: 21081000005\n")
+    print("Kelas\t: 1D\n")
     print("Menemukan bil. terbesar dari 3 inputan user\n")  # judul program
 
     # 1. siapkan variabel
@@ -16,8 +16,6 @@ while ulang == 'Y' or ulang == 'y':
     bilKedua = int(input("Masukkan bilangan kedua : "))
     # variabel untuk bil. ketiga
     bilKetiga = int(input("Masukkan bilangan ketiga : "))
-
-    # 2. proses penyeleksian variabel guna mencari nilai terbesar
 
     if bilPertama > bilKedua:  # cek apakah bil. pertama lebih dari bil kedua
         bilMax = bilPertama  # jika iya variable bil. max diisi bilangan pada variable bil. pertama
