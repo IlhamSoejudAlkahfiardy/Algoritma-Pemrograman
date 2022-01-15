@@ -20,6 +20,12 @@ while ulang == 'Y' or ulang == 'y':
     array3 = [array1[0] + array2[0], array1[1] +
               array2[1], array1[2] + array2[2]]
 
+    # cetak isi dari array 1
+    print(array1)
+
+    # cetak isi dari array 2
+    print(array2)
+
     # cetak isi dari array 3
     print("isi dari array 3 adalah : " + str(array3))
 
