@@ -1,0 +1,17 @@
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.exe.config
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.pdb
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\UASProject.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Security.Permissions.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Numerics.Vectors.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.vbprojResolveAssemblyReference.cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.Form1.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.Resources.resources
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.vbproj.GenerateResource.Cache
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.exe
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.xml
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.pdb
+D:\KULIAH\Matkul\Semester 3\Algoritma Struktur Data\UAS ALPRO 2022\Project\UASProject\UASProject\obj\Debug\UASProject.login.resources
